@@ -1,6 +1,6 @@
 
 build:
-  version: "2.0"
+  version: "5.0"
 
 accounts:
   message: "Welcome to EazyBank Account related Local Api Path"
