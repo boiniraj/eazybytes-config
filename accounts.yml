@@ -1,6 +1,6 @@
 
 build:
-  version: "5.0"
+  version: "10.0"
 
 accounts:
   message: "Welcome to EazyBank Account related Local Api Path"
@@ -10,4 +10,5 @@ accounts:
   onCallSupport:
     - 9505511961
     - 6281507752
+
 
