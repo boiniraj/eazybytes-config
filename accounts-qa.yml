@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to EazyBank Account related QA Api Path"
+  contactDetails:
+    name: "Vamshi pittala"
+    email: "vamshipittala02@gmail.com"
+  onCallSupport:
+    - 9849507752
+    - 6281507752

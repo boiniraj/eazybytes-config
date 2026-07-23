@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank loans related Prod Api Path"
+  contactDetails:
+    name: "kohli"
+    email: "kohli@gmail.com"
+  onCallSupport:
+    - 8457545452
+    - 7451223524
+

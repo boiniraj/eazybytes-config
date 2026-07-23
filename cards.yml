@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank Cards related Local Api Path"
+  contactDetails:
+    name: "kevin"
+    email: "kevin@@gmail.com"
+  onCallSupport:
+    - 8854512545
+    - 7542125422
+

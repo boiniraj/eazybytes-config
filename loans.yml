@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank loans related Local Api Path"
+  contactDetails:
+    name: "mark"
+    email: "mark@gmail.com"
+  onCallSupport:
+    - 6421584554
+    - 9545588458
+

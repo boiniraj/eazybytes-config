@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank Cards related QA Api Path"
+  contactDetails:
+    name: "Lasya"
+    email: "lasya@gmail.com"
+  onCallSupport:
+    - 9584545448
+    - 2184547884
+
