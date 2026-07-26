@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to EazyBank Account related webHook1 Path"
+  message: "Welcome to EazyBank Account related webHook Path"
   contactDetails:
     name: "Sadhana Boini"
     email: "{cipher}9dad3aa99c46e9307e2ff8751d312b6b480891c0860ef2fc64d00b03d985db113f14e29e0470d6bb94b402e2b787139f"
