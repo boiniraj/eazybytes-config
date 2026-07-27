@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank Account related Local Api Path"
+  message: "Welcome to EazyBank Account related docker Api Path"
   contactDetails:
     name: "Rajkumar Boini"
     email: "boinirajkumar02@gmail.com"
